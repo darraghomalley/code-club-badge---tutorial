@@ -1,17 +1,15 @@
 ### @explicitHints true
 # STEM - Quick Draw
-## Introduction - Let's build a Quick Draw app 
+## Step 1 - Let's build a Quick Draw app 
 Let's build a Quick Draw project that will send your micro:bit's name to your teacher.
+Let's start by showing your micro:bit's name when it starts up.
 ```template
 //
 ```
-## Step 1 - Show your micro:bit name 
-Let's start by showing your micro:bit's name when it starts up
 ```blocks
 basic.showString(control.deviceName());
 })
 ```
-
 ## Step 2 - Set your radio group
 Let's set your Radio Group; for this project the whole class will use radio group 255
 ```blocks

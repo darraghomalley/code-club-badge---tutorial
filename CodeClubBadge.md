@@ -1,12 +1,11 @@
 ### @explicitHints true
 # STEM - Code Club Badge
-## Introduction - Let's build a Code Club Badge 
+## Step 1 - Let's build a Code Club Badge 
 Let's build a Code Club Badge to show your Code Club Team's name and your micro:bit's name.
+Let's start by creating a Variable called "Team", your micro:bit will use this to show your team name.Make sure you enter your Team name in the "Team" variable.
 ```template
 //
 ```
-## Step 1 - Create a variable called Team
-Let's start by creating a Variable called "Team", your micro:bit will use this to show your team name.Make sure you enter your Team name in the "Team" variable.
 ```blocks
 let Team = ""
 Team = "Zork"
@@ -25,7 +24,6 @@ input.onButtonPressed(Button.B, function () {
     basic.showString(control.deviceName())
 })
 ```
-
 ## Step 4 - Try it out on your micro:bit
 Download your code onto your micro:bit to see it working
 
