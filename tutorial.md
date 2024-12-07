@@ -16,11 +16,9 @@ let Team = ""
 Team = "Zork"
 ```
 ## Step 3 - Show your Team Name
-Let's show your team name with the B button is pressed
+Let's show your team name with the B button is pressed. Download your code onto your micro:bit to see it working
 ```blocks
 input.onButtonPressed(Button.B, function () {
     basic.showString(Team)
 })
 ```
-## Step 4 - Download your code onto your micro:bit to see it working
-Button A will show your micro:bit's name.  Button B will show your team name
