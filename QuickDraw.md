@@ -1,4 +1,4 @@
-# STEM - Quiz A or B
+# STEM - Quick Draw
 ## Introduction - Let's build a Quick Draw app 
 Let's build a Quick Draw project that will send your micro:bit's name to your teacher.
 ```template
@@ -18,14 +18,14 @@ basic.showString(control.deviceName());
 radio.setGroup(255)
 })
 ```
-## Step 4 - Set your radio group
+## Step 3 - Set your radio group
 Let's send your micro:bit's name using radio send string
 ```blocks
 input.onButtonPressed(Button.A, function () {
     radio.sendString(control.deviceName())
 })
 ```
-## Step 3 - Try it out on your micro:bit
+## Step 4 - Try it out on your micro:bit
 Download your code onto your micro:bit to see it working
 
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
