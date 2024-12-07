@@ -22,3 +22,5 @@ input.onButtonPressed(Button.B, function () {
     basic.showString(Team)
 })
 ```
+## Step 4 - Try it out on your micro:bit
+Download your code onto your micro:bit to see it working
