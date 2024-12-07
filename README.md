@@ -3,6 +3,7 @@
 
 ## Tutorials
 * [tutorial](/code-club-badge---tutorial/tutorial)
+* [tutorial](/code-club-badge---tutorial/tutorial2)
 
 
 ## Edit this project
