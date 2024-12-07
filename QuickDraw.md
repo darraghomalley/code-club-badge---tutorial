@@ -1,3 +1,4 @@
+### @explicitHints true
 # STEM - Quick Draw
 ## Introduction - Let's build a Quick Draw app 
 Let's build a Quick Draw project that will send your micro:bit's name to your teacher.

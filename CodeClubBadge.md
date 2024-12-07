@@ -1,3 +1,4 @@
+### @explicitHints true
 # STEM - Code Club Badge
 ## Introduction - Let's build a Code Club Badge 
 Let's build a Code Club Badge to show your Code Club Team's name and your micro:bit's name.
