@@ -2,7 +2,7 @@
 > Open this page at [https://darraghomalley.github.io/code-club-badge---tutorial/](https://darraghomalley.github.io/code-club-badge---tutorial/)
 
 ## Tutorials
-* [tutorial](/tutorial)
+* [tutorial](/code-club-badge---tutorial/tutorial)
 
 
 ## Edit this project
