@@ -2,8 +2,8 @@
 > Open this page at [https://darraghomalley.github.io/code-club-badge---tutorial/](https://darraghomalley.github.io/code-club-badge---tutorial/)
 
 ## Tutorials
-* [tutorial](/code-club-badge---tutorial/tutorial)
-* [tutorial2](/code-club-badge---tutorial/tutorial2)
+* [Code Club Badge](/code-club-badge---tutorial/CodeClubBadge)
+* [Quick Draw](/code-club-badge---tutorial/QuickDraw)
 
 
 ## Edit this project

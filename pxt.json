@@ -10,9 +10,9 @@
     "files": [
         "main.ts",
         "README.md",
-        "tutorial.md",
         "tutorial-info-cache.json",
-        "tutorial2.md"
+        "CodeClubBadge.md",
+        "QuickDraw.md"
     ],
     "testFiles": [
         "test.ts"
