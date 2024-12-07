@@ -1,14 +1,9 @@
 
 > Open this page at [https://darraghomalley.github.io/code-club-badge---tutorial/](https://darraghomalley.github.io/code-club-badge---tutorial/)
 
-## Use as Extension
+## Tutorials
+* [tutorial](/tutorial)
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/darraghomalley/code-club-badge---tutorial** and import
 
 ## Edit this project
 
