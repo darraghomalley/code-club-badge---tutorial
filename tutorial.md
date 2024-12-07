@@ -1,5 +1,9 @@
 # STEM - Code Club Badge
-
+## Introduction - This Project does x y z 
+For this project we are going to build a Code Club to show your micro:bit's name and your Code Club Team's name.
+```template
+//
+```
 ## Step 1 - Show your micro:bit Name
 Let's start by showing your micro:bit's name when we press the A button
 ```blocks
@@ -7,7 +11,6 @@ input.onButtonPressed(Button.A, function () {
     basic.showString(control.deviceName())
 })
 ```
-
 ## Step 2 - Create a variable called Team
 Let's create a Variable called "Team", your micro:bit will use this to show your team name
 Set your Team name in the "Team" variable 
